@@ -10,3 +10,5 @@ About the project :
 
 Extra:
   You can look at the database and your own questions and use SQL for performing the analysis.
+
+![image](https://github.com/ShivamArora99/Music-Data-Analysis-Learning-/assets/137053776/af89dbbe-f263-4270-9592-cdd15ee9df05)
